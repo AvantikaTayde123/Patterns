@@ -1,4 +1,4 @@
-class p1 {
+class P7{
     public static void main(String[] args) {
         int i,j,num=1;
         for(i=0;i<=4;i++){
